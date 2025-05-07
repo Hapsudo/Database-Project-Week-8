@@ -3,7 +3,7 @@
 A robust and secure **Banking System Database** designed for managing operations including branches, customers, accounts, transactions, users, loans, cards, and audit logging.
 Did Optional Question 2 as a challenge but look at Question 1 as my main Project.
 ---
-
+## 🧠 ERD (Entity Relationship Diagram)
 (./A_Entity-Relationship_Diagram_(ERD)_of_a_banking_d.png) ![image](https://github.com/user-attachments/assets/7ad3d353-967d-4e98-8d8d-e9435049d3c2)
 
 
@@ -133,13 +133,6 @@ Monitors internal data changes for transparency.
 
 ### 💱 Currencies
 Supports different currency types.
-
----
-
-## 🧠 ERD (Entity Relationship Diagram)
-
-![image](https://github.com/user-attachments/assets/052da734-bb19-4534-b5b4-17c59c50f032)
-(./A_Entity-Relationship_Diagram_(ERD)_of_a_banking_d.png)
 
 ---
 
