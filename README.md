@@ -148,11 +148,7 @@ This schema is ideal for:
 ## 🚀 Tech Stack
 
 - **MySQL 8+**
-- Diagram tools: draw.io / dbdiagram.io
+- Diagram tools: draw.io 
 
 ---
-
-## 📌 License
-
-This project is licensed under the MIT License - feel free to use and adapt it.
 
